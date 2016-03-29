@@ -5,7 +5,7 @@
 
 2. mongodb instance has been created in compose.io, the db name is isentia with a collection named articles
 
-3. A simple REST API has been created using bottle module, and can be executed in local
+3. A simple REST API has been created using python bottle module, and can be executed in local
 
 ##Instructions
 1. Pull the entire folder to local, run scrapy crawl isentia, it will start the spider and crawl  www.theguardian.com/au for 

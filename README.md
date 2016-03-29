@@ -1,6 +1,6 @@
 # isentia
 
-##Set up info:
+##Set up info
 1. scrapy package has been installed on local 
 
 2. mongodb instance has been created in compose.io, the db name is isentia with a collection named articles
@@ -16,7 +16,7 @@
 
    http://localhost:8080/articles/teenager
    
-##Limitation:
+##Limitations
 1. A proper data cleaning hasn't been done, some articles are not been extracted
 
 2. REST API can only show one document at a time
